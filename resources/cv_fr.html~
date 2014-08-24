@@ -86,44 +86,10 @@
             
       <h1>Missions <span> - pour OCTO Technology depuis 2010</span></h1>
       <div class="bloc">
-        <div class="mission">
-			  <div class="mission-logo-time">
-				<img src="http://m.c.lnkd.licdn.com/mpr/pub/image-lDlbFyVsKI4wQOsLGINAto525LsN-WJjcH2lUs675KJnG3telDllqIbs5MoT-B0nuoB2/fm-logistic-iberica.jpg" alt="logo FMLogistic">
-				<p>Juillet 2014</p>
-			  </div>
-			<div class="mission-desc">
-				<h2>Mesure des performances de la plateforme de tracking de commandes FM Logistic</h2>
-				<ul>
-					<li>Définition des cas de tests avec le projet (développeurs / MOA)</li>
-					<li>Mise en place de Gatling au sein de l'usine de développement (mesure de la tendance des performances de l'applicatin d'un build sur l'autre)</li>
-					<li>Définition de scénarios de test plus complets pour des tirs sur une plateforme iso-production</li>
-                    <li>Assistance à l'équippe de développement sur des sujets de performance et de design applicatif</li>
-                </ul>
-				<p class="mission-keywords">Performance, Gatling, Jenkins</p>
-			</div>
-        </div> 
-
-        <div class="mission">
-			  <div class="mission-logo-time">
-				<img src="http://www.voor5december.nl/pictures/merken/ing_logo.png" alt="logo ING">
-				<p>Juin 2014</p>
-			  </div>
-			<div class="mission-desc">
-				<h2>Déveolppement d'un PoC "API commune" pour ING Hollande ainsi que d'une web-application démontrant le PoC</h2>
-				<ul>
-					<li>Web-application en AngularJS</li>
-					<li>Développement d'un sous ensemble de l'API commune (JAVA + services REST)</li>
-                    <li>Interfacage avec des webservices SOAP (services XPressi, FIS Global)</li>
-                    <li>Objectif : Dans un même mois, concevoir et déployer deux applications (API commune et webapp iOS) pour démonstration au CEO d'ING Hollande à la fin du mois</li>
-                </ul>
-				<p class="mission-keywords">REST, SOAP, FIS XPress, JAVA, TDD, AngularJS, iPhone</p>
-			</div>
-        </div> 
-
 	    <div class="mission">
 			  <div class="mission-logo-time">
 				<img src="http://www.actulogo.fr/wp-content/uploads/2010/12/digiposte.jpg" alt="logo La Poste">
-				<p>Octobre 2013 - Mai 2014</p>
+				<p>Octobre 2013 - Présent</p>
 			  </div>
 			<div class="mission-desc">
 				<h2>Conseil/Assistance MOE dans le cadre de la refonte de l'application Digiposte</h2>
@@ -236,8 +202,7 @@
         </div>
         <h1>Divers</h1>
 		<p>Loisirs : Musique (du classique au metal), Fantasy, Sorties, Animation de tournois Starcraft 2</p>
-        <p>Compte GitHub : <a href="https://github.com/hoshin">https://github.com/hoshin</a></p>
-        <p>Membre de l'APRIL</p>
+		<p>Membre de l'APRIL</p>
       </div>
     </div>
 	</div>
