@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CV Martin Bahier</title>
+    <style>html,body{font-family:Arial,sans-serif;margin:0;padding:0;color:#595959}body{font-size:12pt;margin:auto;width:820px}a{color:#595959;text-decoration:none}a:hover{text-decoration:underline}.octo-logo{margin-top:10px}.person{color:#0290a7;display:inline-block;float:right;margin-right:10px;text-align:right}.person p{display:inline-block;font-size:14pt;margin-right:1em;vertical-align:top}.person img{height:110px;margin-top:10px;box-shadow:2px 2px 2px 2px rgba(127,127,127,0.16);width:110px}h1{background:rgb(185, 189, 200);-webkit-print-color-adjust: exact;color:#fff;font-size:14pt;font-weight:normal;margin-top:1em;padding:1px 5px;text-transform:uppercase}h1 span{font-size:9pt}.bloc{text-indent:25px}.bloc-competence{display:table-cell;vertical-align:top;width:405px}.divider{background:#d9d9d9;height:1px;width:100%}h2{font-size:12pt;font-weight:normal;margin-bottom:0}ul{margin-top:0;margin-left:0;padding:0 0 0 60px;text-indent:-24px}li{display:block;list-style:inside}li:before{color:#3eb9d0;content:"+";font-weight:bold;margin-right:15px}li,.mission-logo-time,.mission-keywords{font-size:10pt}li li{font-size:9pt;margin-left:-30px}li li:before{content:"\02013"}.mission{border-bottom:1px solid #d9d9d9;page-break-inside: avoid;display:table;padding:.8em 0;width:100%}.mission h2{margin-top:0}.mission-logo-time,.mission-desc{display:table-cell}.mission-logo-time{text-align:center;text-indent:0;vertical-align:middle;width:25%}.mission-logo-time img{max-height:70px;max-width:190px}.mission-logo-time p{margin:0}.mission-desc{text-indent:0;vertical-align:top;width:75%}.mission-desc ul{padding-left:30px}.mission-keywords{font-style:italic;margin:0}</style>
+  </head>
+  <body>
+    <div class="cv"	style="position:relative;">
+      <header style="height:160px;">
+        <div style="width:100%;height:100%;">
+			<p style="float:left;">
+				<span style="font-size:18px">Martin Bahier</span>
+				<br/>Développeur agiliste<br/>
+				57, Boulevard Jean Jaurès, 
+				<br/>92100 Boulogne Billancourt
+				<br/>06.23.98.31.84
+				<br/><a href="mailto:martin.bahier@gmail.com">martin.bahier@gmail.com</a>
+				<br/>Twitter : <a href="https://twitter.com/MartinBahier">@MartinBahier</a>
+			</p>
+          <img style="float:right;margin-top:15px;" src="http://s3.amazonaws.com/askbob/users/photos/44/preview/martin-bahier_small.jpg?1356095624" alt="Photo">
+        </div>
+      </header>
+      <div style="width:100%">
+      <h1>Formation</h1>
+      <div class="bloc">
+		<p><b>Formation continue</b> : Prise de parole en public, Présentation Powerpoint</p>
+        <p><b>Mastère spécialisé</b> Management de Projets Technologiques (ESSEC / Telecom Paris) - 2010</p>
+		<p><b>Master 2 Informatique</b> (Univ. Paris Diderot) - 2009</p>
+      </div>
+      
+      <h1>Compétences</h1>
+      <div class="bloc bloc-competence">
+        <h2>Domaines techniques</h2>
+        <ul>
+          <li>Développement Java/JEE, .Net, JS (NodeJS)</li>
+          <li>Développement HTML5, CSS3, JavaScript</li>
+          <li>Usine de développement (TeamCity, Jenkins).</li>
+		  <li>Administration Linux </li>
+		  <li>Scripting shell : Bash</li>
+		  <li>SQL : Mysql / Postgres / SQL Server</li>
+        </ul>
+      </div>
+      <div class="bloc bloc-competence">
+        <h2>Architecture &amp; Technologies</h2>
+        <ul>
+          <li>Réalisation de projets : conception, développement, tests et recette, mise en production,</li>
+          <li>Études d’architecture : audit, choix technologiques.</li>
+          <li>Test en charge : Excylis Gatling</li>
+        </ul>
+      </div>
+      <div  class="divider"></div>
+      <div class="bloc bloc-competence">
+        <h2>Méthodologies</h2>
+        <ul>
+          <li>SCRUM,</li>
+		  <li>Kanban,</li>
+          <li>Test Driven Development,</li>
+		  <li>Acceptance Test Driven Development,</li>
+          <li>Xtreme Programming,</li>
+		  <li>Continuous Delivery.</li>
+        </ul>
+      </div>
+      <div class="bloc bloc-competence">
+        <h2>Conférences et Publications</h2>
+        <ul>
+			<li>Cours d'introduction à l'Agile à l'Univ. Paris diderot (<a href="http://www.liafa.univ-paris-diderot.fr/~yunes/cours/conferences/MartinBahier2011.pdf">2011</a>, <a href="http://www.liafa.univ-paris-diderot.fr/~yunes/cours/conferences/MartinBahier2012.pdf">2012</a>)</li>
+			<li><a href="http://blog.octo.com/usine-de-developpement-net-avec-git-et-teamcity/">Blog Octo : Passer d'une UDD "pure TFS" au couple Teamcity / Git : est-ce intéressant ?</a></li>
+		</ul>
+      </div>
+	  <div  class="divider"></div>
+	  <div class="bloc bloc-competence">
+		<h2>Autres compétences</h2>
+		<ul>
+			<li>Norme <b>C</b>linical <b>D</b>ocument <b>A</b>rchitecture</li>
+			<li>MongoDB</li>
+			<li>WebGL / HTML Canvas</li>
+			<li>RabbitMQ</li>
+			<li>Langages : Ruby/RoR/Rake, Perl, C/C++</li>
+			<li>Structuration de données : XML, JSON</li>
+			<li>Systèmes de gestion de version : Git, SVN</li>
+			<li>Présentation : LaTeX / Beamer</li>
+			<li>Anglais courant (CAE, Score TOEFL 2010 : 945/990)</li>
+        </ul>
+	  </div>
+            
+      <h1>Missions <span> - pour OCTO Technology depuis 2010</span></h1>
+      <div class="bloc">
+	    <div class="mission">
+			  <div class="mission-logo-time">
+				<img src="http://www.actulogo.fr/wp-content/uploads/2010/12/digiposte.jpg" alt="logo La Poste">
+				<p>Octobre 2013 - Présent</p>
+			  </div>
+			<div class="mission-desc">
+				<h2>Conseil/Assistance MOE dans le cadre de la refonte de l'application Digiposte</h2>
+				<ul>
+					<li>Rédaction en amont de prérequis techniques pour l'ajout de fonctionnalités à la plateforme</li>
+					<li>Aide au diagnostic de problèmes techniques rencontrés (Analyse, PoC de "fix")</li>
+					<li>Liaison MOA Digiposte / prestataires</li>
+                    <li>Réalisation d'une application de démonstration des APIs Digiposte (NodeJS/Express)</li>
+                </ul>
+				<p class="mission-keywords">Conseil, Dématérialisation, Shell</p>
+			</div>
+        </div> 
+	  
+        <div class="mission">
+          <div class="mission-logo-time">
+            <img src="http://upload.wikimedia.org/wikipedia/fr/1/1c/LegalAndGeneral_Logo.png" alt="logo LG">
+            <p>Mars 2013 – Octobre 2013</p>
+          </div>
+          <div class="mission-desc">
+            <h2>Refonte du portail grand public du cabinet Legal & General France</h2>
+            <ul>
+              <li>Développement front et back</li>
+              <li>Participation / animation des rituels agiles</li>
+            </ul>
+            <p class="mission-keywords">C#, ASP.Net, .Net 4.0, TDD, backbone.js, jQuery, Jasmine, Greenpepper, less</p>
+          </div>
+        </div>
+        
+        <div class="mission">
+          <div class="mission-logo-time">
+            <img src="http://www.actulogo.fr/wp-content/uploads/2010/12/digiposte.jpg" alt="logo La Poste">
+            <p>Novembre 2012 - Avril 2013</p>
+          </div>
+          <div class="mission-desc">
+            <h2>Audit et conseil dans le cadre de la refonte de l'application Digiposte</h2>
+            <ul>
+              <li>Audit d'architecture, de code, du schéma de base de données, plateforme d'intégration continue ...</li>
+			  <li>Réalisation de "Proof of Concept"s sur le test en charge de la plateforme</li>
+            </ul>
+            <p class="mission-keywords">Conseil, Audit, Dématérialisation, Java, Puppet, Gatling</p>
+          </div>
+        </div>        
+		
+		<div class="mission">
+          <div class="mission-logo-time">
+            <img src="http://esante.gouv.fr/dmp_presse/logos/01_hd.png" alt="logo ASIP">
+            <p>Février 2012– Octobre 2012</p>
+          </div>
+          <div class="mission-desc">
+            <h2>Ajout de fonctionnaités à l'application "DéMo DMP" / Cadrage des fonctionnalités à venir</h2>
+            <ul>
+              <li>Développement des nouvelles fonctionnalités</li>
+			  <li>Fusion de deux applications distinctes</li>
+			  <li>Transfert de compétences techniques et métier aux nouveaux développeurs</li>
+              <li>Participation / animation des rituels agiles</li>
+			  <li>"Évangélisation" TDD des développeurs</li>
+			  <li>Bascule de forge logicielle (de TFS complet à Git et TeamCity)</li>
+            </ul>
+            <p class="mission-keywords">C#, .Net, WPF, .Net 4.0, TDD, CPS, Carte Vitale, CDA, DMP, TeamCity, Git</p>
+          </div>
+        </div>
+		
+		<div class="mission">
+          <div class="mission-logo-time">
+            <img src="http://www.lavenirdelartois.fr/stories/thumb300x00//mediastore/NordLittoral/A2012/M07/logo_orange.jpg" alt="logo Orange">
+            <p>Septembre 2011 – Janvier 2012</p>
+          </div>
+          <div class="mission-desc">
+            <h2>Reprise du code du site "iPhone en scène"</h2>
+            <ul>
+				<li>Reccueil des nouveaux besoins</li>
+				<li>Développement front et back</li>
+				<li>Amélioration du processus de livraison</li>
+            </ul>
+            <p class="mission-keywords">PHP, jQuery, jQuery UI</p>
+          </div>
+        </div>
+		
+		<div class="mission">
+          <div class="mission-logo-time">
+            <img src="http://esante.gouv.fr/dmp_presse/logos/01_hd.png" alt="logo ASIP">
+            <p>Décembre 2010 – Décembre 2011</p>
+          </div>
+          <div class="mission-desc">
+            <h2>Première version de l'application "DéMo DMP"</h2>
+            <ul>
+              <li>Développement de l'application</li>
+			  <li>Développement d'un outil de génération simplifiée de documents CDA</li>
+			  <li>Aide à la configuration des postes clients</li>
+            </ul>
+            <p class="mission-keywords">C#, .Net, WPF, .Net 4.0, TDD, CPS, Carte Vitale, CDA, DMP</p>
+          </div>
+        </div>
+		
+		<h1>Travail en interne au sein d'Octo</h1>
+		<div class="mission">
+          <div class="mission-logo-time">
+            <img src="https://octopod.s3.amazonaws.com/assets/octopod_logo-dad6593f7ce80cefa47ffddc34d53d5b.png" alt="logo Octopod">
+            <p>Selon le temps disponible</p>
+          </div>
+          <div class="mission-desc">
+            <h2>Contributions à l'ERP interne "Octopod"</h2>
+            <ul>
+              <li>Reccueil des besoins</li>
+			  <li>Développement de nouvelles features / d'outillage de test</li>
+			  <li>Accompagnement des nouveaux développeurs (fonctionnel / tech)</li>
+            </ul>
+            <p class="mission-keywords">Ruby, jQuery, CoffeeScript, Jasmine, RSpec, TDD, Rake</p>
+          </div>
+        </div>
+        <h1>Divers</h1>
+		<p>Loisirs : Musique (du classique au metal), Fantasy, Sorties, Animation de tournois Starcraft 2</p>
+		<p>Membre de l'APRIL</p>
+      </div>
+    </div>
+	</div>
+  </body>
+</html>
+  
