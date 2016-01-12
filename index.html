@@ -117,15 +117,6 @@
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="resources/dist/js/jquery-2.2.0.min.js"></script>
 <script src="resources/dist/js/bootstrap.min.js"></script>
-<script>
-
-    $(function () {
-        $(".navbar-nav li a").click(function (e) {
-            $(".content-container").hide();
-            $($(e.currentTarget).attr('href')).show();
-        });
-    });
-</script>
 <!-- Piwik -->
 <script type="text/javascript">
     var _paq = _paq || [];
@@ -144,6 +135,17 @@
     })();
 
 </script>
+<script>
+    $(function () {
+        $(".navbar-nav li a").click(function (e) {
+            $(".content-container").hide();
+            $($(e.currentTarget).attr('href')).show();
+            _paq.push(['setDocumentTitle', $(e.currentTarget).attr('href')]);
+            _paq.push(['trackPageView']);
+        });
+    });
+</script>
+
 <noscript><p><img src="http://martinbahier.fr/statphp?idsite=1" style="border:0" alt=""/></p></noscript>
 <!-- End Piwik Code -->
 </body>
