@@ -30,7 +30,11 @@
     };
 </script>
 
-<select id="cv_selector" class="no-print" style="display:none" onChange="resume.selectorChange()"></select>
+<div class="top_menu no-print">
+    <select id="cv_selector"  style="display:none" onChange="resume.selectorChange()"></select>
+    <a href="#" id="print_button" onClick="window.print()">Print / Save</a>
+</div>
+
 <div class="cv" style="position:relative;">
     <header style="height:11em;">
         <div>

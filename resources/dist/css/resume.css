@@ -164,3 +164,18 @@ li li:before {
 .headerData {
     display:none;
 }
+
+.top_menu {
+    position:relative;
+    height:2em;
+}
+
+.top_menu select {
+    position:absolute;
+    left:0;
+}
+
+.top_menu a {
+    position:absolute;
+    right:0;
+}
