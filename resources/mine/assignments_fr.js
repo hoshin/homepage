@@ -85,10 +85,18 @@ var assignments_fr = {
             }
         }
     },
+    okapi: {
+        logo            : 'laposte',
+        logoAlt         : 'La Poste',
+        duration        : 'Juillet 2017 - Présent',
+        shortDescription: "<p>Developpe une solution d'API management pour La Poste</p>",
+        keywords        : 'NodeJS, REST API, GraphQL, Docker, API Management',
+        title           : 'Fullstack Developer - Branche Numérique'
+    },
     prestashop: {
         logo: 'prestashop',
         logoAlt: 'Prestashop',
-        duration: '2017',
+        duration: 'Jan. - Mars 2017',
         shortDescription: "<p>Construire une API e-commerce robuste et scalable</p>",
         keywords: 'NodeJS, REST API, e-commerce, CI/CD',
         title: 'Développeur R&D - Prestashop'

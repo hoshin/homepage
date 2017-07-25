@@ -1,11 +1,19 @@
 var assignments = {
     name: 'English',
     expectedHeaders: ['twitter', 'github', 'email', 'name', 'addressLine1', 'addressLine2', 'position', 'phone', 'picture'],
+    okapi: {
+        logo            : 'laposte',
+        logoAlt         : 'La Poste',
+        duration        : 'July 2017 - Present',
+        shortDescription: "<p>Developing an API management app for La Poste</p>",
+        keywords        : 'NodeJS, REST API, GraphQL, Docker, API Management',
+        title           : 'Fullstack Developer - Branche Numérique'
+    },
     prestashop: {
         logo            : 'prestashop',
         logoAlt         : 'Prestashop',
-        duration        : '2017',
-        shortDescription: "<p>Building a robust & scalable e-commerce API</p>",
+        duration        : 'Jan. - March 2017',
+        shortDescription: "<p>Built a robust & scalable e-commerce API</p>",
         keywords        : 'NodeJS, REST API, e-commerce, CI/CD',
         title           : 'R&D Developer - Prestashop'
     },
